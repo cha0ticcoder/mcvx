@@ -1,8 +1,6 @@
 # MCVx
 
-A Minecraft 3D-Builder which is for:
-
-Building... <br><br> - Structures <br> - Houses <br> - Terrain <br> - and much more!
+A Minecraft 3D-Builder which is for building Structures, Houses, Terrain and much more without the need to create new World and/or install mods for a better building experience
 
 # Planned Features
 
