@@ -2,7 +2,7 @@
 
 A Minecraft 3D-Builder which is for:
 
-Building... <br><br> ...Structures <br> ...Houses <br> ...Terrain and much more!
+Building... <br><br> - Structures <br> - Houses <br> - Terrain <br> - and much more!
 
 # Planned Features
 
