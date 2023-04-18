@@ -1,4 +1,4 @@
-# mcvx
+# MCVx
 
 A Minecraft 3D-Builder which is for:
 
@@ -7,7 +7,11 @@ Building  Structures
           Terrains
           much more...
 
-Features planned:
+# Planned Features
 
-- Own Texturepacks
-- Models for Fences and other not-full-block Blocks
+- Base
+- Change Textures
+- Own Texturepacks (Minecraft Texture Pack Compatibility)
+- Models for Fences and other non-full-blocks
+- ...
+
